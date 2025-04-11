@@ -30,6 +30,12 @@
     margin: 12px 8px;
     text-align: center;
 }
+#topleft a:hover{
+    
+    color: black;
+    background-color: lightgray;
+}
+
 
 #bottomleft{
     position: absolute;
